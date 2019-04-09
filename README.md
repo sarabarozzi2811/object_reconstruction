@@ -8,5 +8,7 @@ parts connected by a deformable bellow.
 Perform:
 
   Features extraction
+  
   Recontruction of the vertical and horizontal faces
+  
   Localization of the camera 
