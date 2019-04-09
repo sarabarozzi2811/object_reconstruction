@@ -1,4 +1,4 @@
-##INTRODUCTION
+## Project description
 
 The objective of the projec is to analyze a given image in order to extract the principal feature and
 to reconstruct its shape starting from some additional information using the software MATLAB.
